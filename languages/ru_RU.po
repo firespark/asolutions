@@ -1,0 +1,200 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blank WordPress Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2024-05-25 17:27+0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "Oops... Page not found"
+msgstr "Ой... Страница не найдена"
+
+#: 404.php:13
+msgid "Go to main page"
+msgstr "На главную"
+
+#: admin/subscriptions_file.php:11
+msgid "Search"
+msgstr "Поиск"
+
+#: admin/subscriptions_file.php:13
+msgid "Find Email"
+msgstr "Поиск по Email"
+
+#: admin/subscriptions_file.php:16
+msgid "Delete selected posts"
+msgstr "Удалить выбранные записи"
+
+#: admin/subscriptions_file.php:21 classes/SendSubscription.php:145
+#: inc/catalog_modal.php:11
+msgid "Email"
+msgstr "Email"
+
+#: admin/subscriptions_file.php:22
+msgid "Date"
+msgstr "Дата"
+
+#: classes/SendSubscription.php:25
+msgid ""
+"Errors occurred during script execution. Please inform the site "
+"administrator about this issue"
+msgstr ""
+"Во время выполнения скрипта возникли ошибки. Пожалуйста, сообщите "
+"администратору сайта об этом"
+
+#: classes/SendSubscription.php:45
+msgid "Wrong Email"
+msgstr "Неправильно указан Email"
+
+#: classes/SendSubscription.php:144
+msgid "Subject"
+msgstr "Тема"
+
+#: footer.php:19 inc/header_menu.php:6 inc/main_modal.php:5
+msgid "Catalog"
+msgstr "Каталог"
+
+#: footer.php:20 inc/header_menu.php:7 inc/main_modal.php:6
+msgid "About"
+msgstr "О компании"
+
+#: footer.php:21 inc/header_menu.php:8 inc/main_modal.php:7
+msgid "Contacts"
+msgstr "Контакты"
+
+#: footer.php:22
+msgid "Price list"
+msgstr "Прайс-Лист"
+
+#: functions/admin_functions.php:20
+msgid "Catalog Applications"
+msgstr "Каталог-Заявки"
+
+#: functions/admin_functions.php:20 functions/admin_functions.php:74
+#: functions/admin_functions.php:75
+msgid "Subscriptions"
+msgstr "Подписки"
+
+#: functions/admin_functions.php:86 functions/admin_functions.php:87
+msgid "Catalog-Applications"
+msgstr "Каталог-Заявки"
+
+#: functions/common_functions.php:16 functions/common_functions.php:17
+msgid "Main settings"
+msgstr "Основные настройки"
+
+#: functions/common_functions.php:18
+msgid "Save"
+msgstr "Сохранить"
+
+#: functions/common_functions.php:125
+msgid "Home"
+msgstr "Главная"
+
+#: functions/common_functions.php:127
+msgid "Search results with query"
+msgstr "Результаты поиска по запросу"
+
+#: functions/common_functions.php:128
+msgid "Posts with tag"
+msgstr "Записи с тегом"
+
+#: functions/common_functions.php:129
+msgid "Authors posts"
+msgstr "Записи автора"
+
+#: functions/common_functions.php:130
+msgid "Error"
+msgstr "Ошибка"
+
+#: functions/common_functions.php:131
+msgid "Page"
+msgstr "Страница"
+
+#: functions/common_functions.php:132
+msgid "Comments page"
+msgstr "Страница комментариев"
+
+#: functions/common_functions.php:423
+msgid "Pages"
+msgstr "Страницы"
+
+#: functions/common_functions.php:424
+msgid "First page"
+msgstr "Первая страница"
+
+#: functions/common_functions.php:436
+msgid "Last page"
+msgstr "Последняя страница"
+
+#: functions/posts_functions.php:6 functions/posts_functions.php:17
+msgid "Products"
+msgstr "Товары"
+
+#: functions/posts_functions.php:7 functions/posts_functions.php:18
+msgid "Product"
+msgstr "Товар"
+
+#: functions/posts_functions.php:8 functions/posts_functions.php:9
+msgid "Add Product"
+msgstr "Добавить Товар"
+
+#: functions/posts_functions.php:10
+msgid "Edit Product"
+msgstr "Редактировать Товар"
+
+#: functions/posts_functions.php:11
+msgid "New Product"
+msgstr "Новый Товар"
+
+#: functions/posts_functions.php:12
+msgid "View Product"
+msgstr "Просмотр Товара"
+
+#: functions/posts_functions.php:13
+msgid "Search Products"
+msgstr "Поиск Товаров"
+
+#: functions/posts_functions.php:14
+msgid "No Products found"
+msgstr "Товары не найдены"
+
+#: functions/posts_functions.php:15
+msgid "No Products found in trash"
+msgstr "Товары не найдены в корзине"
+
+#: functions/posts_functions.php:16
+msgid "All Products"
+msgstr "Все Товары"
+
+#: functions/styles_js_files.php:30
+msgid "Delete post?"
+msgstr "Удалить запись?"
+
+#: functions/styles_js_files.php:31
+msgid "Delete selected posts?"
+msgstr "Удалить выбранные записи?"
+
+#: inc/catalog_modal.php:12 inc/footer_subscribe.php:7
+msgid "Ok"
+msgstr "Ок"

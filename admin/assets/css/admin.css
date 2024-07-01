@@ -1,0 +1,153 @@
+.addAdminCommentForm{
+	display: none;
+}
+
+
+.table > tbody.tbgroup {
+    border-bottom: 2px solid #ddd;
+}
+table#orders tr td, table#pointsapplies tr td{
+	border: none !important;
+}
+
+table#orders tr.maintr:hover, table#pointsapplies tr.maintr:hover{
+	background-color: #b0e0e6;
+}
+.trbottom{
+	border-top: none;
+	width: 100%; 
+	height: 30px;
+	border-bottom: 2px solid #ddd;
+}
+
+
+table#pointsapplies th, table#history_applies th{
+	background-color: #337ab7;
+	vertical-align: middle;
+	color: #fff;
+}
+
+table#orders th, table#history_orders th, table#clients th{
+	background-color: #00838f;
+	vertical-align: middle;
+	color: #fff;
+}
+
+table#orders button, table.orders_modal button{
+	background-color: #00838f;
+	border-color: #07838f;
+}
+
+table.orders_modal button{
+	margin-right: 10px;
+}
+
+table#orders a{
+	color: #00838f;
+}
+
+
+
+
+.clients_block{
+	background-color: #ccc; 
+	width: 40%; 
+	margin:0 auto; 
+	text-align: center;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+.form-group input.searchinput{
+	width: 270px;
+	float: left;
+
+}
+
+.form-group button.searchuser{
+	margin: 0 0 0 20px;
+	float: left;
+
+}
+
+.searchnote{
+	color: red;
+	height: 20px;
+}
+
+th.select_status{
+	width: 130px;
+}
+
+.new-row{
+	background-color: #dbfac9;
+}
+
+.blue-row{
+	background-color: #def6fc;
+}
+
+.red-row{
+	background-color: #ffcdd2;
+}
+
+.orange-row{
+	background-color: #ffe0b2;
+}
+
+.modal-open .modal {
+    background: rgba(0, 0, 0, 0.48);
+}
+.modal.bnr-modal {
+	padding: 0 1em !important;
+}
+.modal-body {
+    padding:0em 2em 2em;
+}
+.modal-dialog {
+    margin: 6em auto;
+}
+
+.modal_body_right button{
+	margin-right: 20px;
+}
+
+.table_buttons{
+	position: relative;
+	left: 18%;
+}
+
+#pagination span, #pagination a{
+	padding: 5px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	display: inline-block;
+}
+
+.sendmessage {
+    color: #00838f;
+    display: none;
+    text-align: center;
+    padding: 15px;
+    margin: 20px;
+}
+.errormessage {
+    color: #e1193e;
+    display: none;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+table#clients th, table#clients td {
+	min-width: 35px;
+	max-width: 150px;
+}
+
+.m-width-100 {
+	max-width: 100px;
+}
+.m-width-600 {
+	max-width: 600px;
+}
+
